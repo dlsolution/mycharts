@@ -16,6 +16,6 @@ entries:
     name: app-demo-k8s
     type: application
     urls:
-    - app-demo-k8s-0.1.0.tgz
+    - https://dlsolution.github.io/mycharts/app-demo-k8s-0.1.0.tgz
     version: 0.1.0
 generated: "2023-06-01T21:23:47.552395+07:00"
